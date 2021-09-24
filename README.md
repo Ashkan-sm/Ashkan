@@ -11,6 +11,8 @@ finding health problems by scanning your eye
 برای این مرحله ممکنه که قرنیه دقیقا وسط عنبیه نباشه و عکس با زاویه ی کج گرفته شده باشه پس با الگوریتمی که زدم اول  با رعایت نثبت ها هنبیه رو جوری تغییر شکل میدم که قرنیه وسطش بیفته (خیلی روش های مختلفی طرح کردم و امتحان کردم تا به جواب رسیدم )
 
 بعد قرنیه رو برا تشخیص لکه ها مستطیل شکل کردم
+
+
 ![image](https://user-images.githubusercontent.com/75389063/134572045-a0274321-771d-4744-be38-30593155e2f4.png)
 ![image](https://user-images.githubusercontent.com/75389063/134572053-3e88eb56-a99a-4d21-877f-9ce6e372460d.png)
 ![image](https://user-images.githubusercontent.com/75389063/134572061-83a97f70-babb-430a-b8cd-cbf7e4badd48.png)
