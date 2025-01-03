@@ -1,16 +1,14 @@
 # Ashkan
-finding health problems by scanning your eye
-احتمالا نتونید ران کنید چون خیلی کارا هست  برای ران
+# finding health problems by scanning your eye
 
-خروجی و مراحلی که برای تشخیص زدم =>
+
+step by step algorithm
 ![image](https://user-images.githubusercontent.com/75389063/134572089-1a898104-3605-4dbd-90b7-a5d4fbc17350.png)
 
 ![image](https://user-images.githubusercontent.com/75389063/134572018-d9ccba27-5fce-4b6d-b2bd-41597be6e81c.png)
 ![image](https://user-images.githubusercontent.com/75389063/134572117-83dbb346-93ac-4214-8dbe-323fb5aca10b.png)
 
-برای این مرحله ممکنه که قرنیه دقیقا وسط عنبیه نباشه و عکس با زاویه ی کج گرفته شده باشه پس با الگوریتمی که زدم اول  با رعایت نثبت ها هنبیه رو جوری تغییر شکل میدم که قرنیه وسطش بیفته (خیلی روش های مختلفی طرح کردم و امتحان کردم تا به جواب رسیدم )
-
-بعد قرنیه رو برا تشخیص لکه ها مستطیل شکل کردم
+scaling image to make the pupil be in the center of the eye
 
 
 ![image](https://user-images.githubusercontent.com/75389063/134572045-a0274321-771d-4744-be38-30593155e2f4.png)
